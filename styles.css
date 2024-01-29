@@ -1,0 +1,45 @@
+body {
+    background-color: #ececec;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+nav > a{
+    margin: auto 40px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    margin: 70px auto 0 auto;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+article {
+   text-align: center;
+}
+
+article p {
+    margin: 20px auto 40px;
+    font-size: 20px;
+}
+
+.location {
+    margin-bottom: auto;
+}
+
+.email {
+    margin-top: 5px;
+}
